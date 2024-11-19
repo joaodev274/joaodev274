@@ -45,6 +45,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nobrexDEV/nobrexDEV/output/snake.svg" alt="Snake animation" />
 
 ###
