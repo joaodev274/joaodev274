@@ -1,84 +1,55 @@
-<h1 align="center">Ei👋e aí</h1>
+<h1 align="center">👋 Ei, e aí! Seja bem-vindo ao meu perfil 🚀</h1>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif"  />
+  <img height="200" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" />
 </div>
 
-###
+---
+
+## 🧑‍💻 Sobre mim
+- Meu nome é **João Pedro**  
+- Aspirante a **Full-stack Developer**  
+- Apaixonado por tecnologia, código limpo e inovação  
+- Sempre aprendendo algo novo 🚀  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  <a href="https://discordapp.com/users/1395390262175465544" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <!-- Linguagens -->
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</div>
+
+---
+
+## 📊 Stats do GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuarioAqui&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioAqui&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
+## 🌐 Onde me encontrar
+
+<div align="center">
+  <a href="https://discordapp.com/users/139539" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/myjoao__/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://linkedin.com/in/seuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:joaopedro293132@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:seuemail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=joaodev274.joaodev274&"  />
-</div>
-
-###
-
-<h2 align="left">Sobre Mim:</h2>
-
-###
-
-<p align="left">Meu nome é João Pedro e sou apaixonado por tecnologia. Sempre tive curiosidade em entender como as coisas funcionam por trás das telas, desde a construção de sites até a lógica que mantém sistemas inteiros no ar. Essa curiosidade me levou a buscar cada vez mais conhecimento em programação e desenvolvimento de software.<br><br>Meu objetivo é me tornar um desenvolvedor Full-stack, capaz de atuar tanto no front-end, criando interfaces modernas e interativas, quanto no back-end, estruturando a lógica e os bancos de dados que dão vida às aplicações. Quero dominar linguagens, frameworks e ferramentas que me permitam criar projetos completos, desde a ideia até a execução final.<br><br>Acredito que ser Full-stack vai me permitir ter uma visão mais ampla da tecnologia, resolver problemas de forma criativa e contribuir em diferentes etapas do desenvolvimento. Estou construindo minha jornada com dedicação, disciplina e vontade de crescer cada vez mais nesse mundo da programação.</p>
-
-###
-
-<h2 align="left">Tecnologias</h2>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="42" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="42" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="42" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="42" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="42" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="42" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="42" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="42" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="42" alt="csharp logo"  />
-</div>
-
-###
-
-<h2 align="left">GitHub Status:</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaodev274&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaodev274&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaodev274/joaodev274/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaodev274/joaodev274/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/joaodev274/joaodev274/output/pacman-contribution-graph.svg">
-</picture>
-
-###
