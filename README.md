@@ -58,6 +58,8 @@
   <img src="https://skillicons.dev/icons?i=github" height="42" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="42" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="42" alt="csharp logo"  />
 </div>
 
 ###
